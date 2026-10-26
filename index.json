@@ -1,0 +1,372 @@
+[
+  {
+    "id": "ar_al-ajniha",
+    "language": "ar",
+    "title": "الأجنحة المتكسرة",
+    "author": "جبران خليل جبران",
+    "genre": "novella",
+    "chapters": 11,
+    "chars": 93324,
+    "file": "json/ar_al-ajniha.json"
+  },
+  {
+    "id": "ar_dam-a-wa-ibtisama",
+    "language": "ar",
+    "title": "دمعة وابتسامة",
+    "author": "جبران خليل جبران",
+    "genre": "prose poetry",
+    "chapters": 62,
+    "chars": 127658,
+    "file": "json/ar_dam-a-wa-ibtisama.json"
+  },
+  {
+    "id": "ar_hayy-ibn-yaqzan",
+    "language": "ar",
+    "title": "حي بن يقظان",
+    "author": "ابن طفيل",
+    "genre": "philosophical novel",
+    "chapters": 1,
+    "chars": 97421,
+    "file": "json/ar_hayy-ibn-yaqzan.json"
+  },
+  {
+    "id": "de_das-urteil",
+    "language": "de",
+    "title": "Das Urteil",
+    "author": "Franz Kafka",
+    "genre": "short story",
+    "chapters": 1,
+    "chars": 25952,
+    "file": "json/de_das-urteil.json"
+  },
+  {
+    "id": "de_der-sandmann",
+    "language": "de",
+    "title": "Der Sandmann",
+    "author": "E. T. A. Hoffmann",
+    "genre": "gothic tale",
+    "chapters": 3,
+    "chars": 80443,
+    "file": "json/de_der-sandmann.json"
+  },
+  {
+    "id": "de_die-verwandlung",
+    "language": "de",
+    "title": "Die Verwandlung",
+    "author": "Franz Kafka",
+    "genre": "novella",
+    "chapters": 4,
+    "chars": 121608,
+    "file": "json/de_die-verwandlung.json"
+  },
+  {
+    "id": "en_alice",
+    "language": "en",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "fantasy",
+    "chapters": 13,
+    "chars": 144076,
+    "file": "json/en_alice.json"
+  },
+  {
+    "id": "en_bartleby",
+    "language": "en",
+    "title": "Bartleby, the Scrivener",
+    "author": "Herman Melville",
+    "genre": "short story",
+    "chapters": 1,
+    "chars": 81835,
+    "file": "json/en_bartleby.json"
+  },
+  {
+    "id": "en_canterville-ghost",
+    "language": "en",
+    "title": "The Canterville Ghost",
+    "author": "Oscar Wilde",
+    "genre": "comic ghost story",
+    "chapters": 8,
+    "chars": 65614,
+    "file": "json/en_canterville-ghost.json"
+  },
+  {
+    "id": "en_christmas-carol",
+    "language": "en",
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "novella",
+    "chapters": 7,
+    "chars": 158099,
+    "file": "json/en_christmas-carol.json"
+  },
+  {
+    "id": "en_earnest",
+    "language": "en",
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "genre": "comedy play",
+    "chapters": 4,
+    "chars": 116753,
+    "file": "json/en_earnest.json"
+  },
+  {
+    "id": "en_jekyll-hyde",
+    "language": "en",
+    "title": "Strange Case of Dr Jekyll and Mr Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "gothic novella",
+    "chapters": 12,
+    "chars": 138136,
+    "file": "json/en_jekyll-hyde.json"
+  },
+  {
+    "id": "en_modest-proposal",
+    "language": "en",
+    "title": "A Modest Proposal",
+    "author": "Jonathan Swift",
+    "genre": "satirical essay",
+    "chapters": 1,
+    "chars": 19495,
+    "file": "json/en_modest-proposal.json"
+  },
+  {
+    "id": "en_raven",
+    "language": "en",
+    "title": "The Raven",
+    "author": "Edgar Allan Poe",
+    "genre": "poem",
+    "chapters": 1,
+    "chars": 7118,
+    "file": "json/en_raven.json"
+  },
+  {
+    "id": "en_romeo-juliet",
+    "language": "en",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genre": "tragedy play",
+    "chapters": 30,
+    "chars": 141333,
+    "file": "json/en_romeo-juliet.json"
+  },
+  {
+    "id": "en_yellow-wallpaper",
+    "language": "en",
+    "title": "The Yellow Wallpaper",
+    "author": "Charlotte Perkins Gilman",
+    "genre": "gothic short story",
+    "chapters": 1,
+    "chars": 31497,
+    "file": "json/en_yellow-wallpaper.json"
+  },
+  {
+    "id": "es_lazarillo",
+    "language": "es",
+    "title": "La vida de Lazarillo de Tormes",
+    "author": "Anónimo",
+    "genre": "picaresque novella",
+    "chapters": 8,
+    "chars": 106210,
+    "file": "json/es_lazarillo.json"
+  },
+  {
+    "id": "es_rimas",
+    "language": "es",
+    "title": "Rimas",
+    "author": "Gustavo Adolfo Bécquer",
+    "genre": "poetry",
+    "chapters": 76,
+    "chars": 23183,
+    "file": "json/es_rimas.json"
+  },
+  {
+    "id": "es_rinconete",
+    "language": "es",
+    "title": "Rinconete y Cortadillo",
+    "author": "Miguel de Cervantes",
+    "genre": "exemplary novella",
+    "chapters": 1,
+    "chars": 76110,
+    "file": "json/es_rinconete.json"
+  },
+  {
+    "id": "fr_candide",
+    "language": "fr",
+    "title": "Candide ou l'Optimisme",
+    "author": "Voltaire",
+    "genre": "philosophical tale",
+    "chapters": 33,
+    "chars": 199927,
+    "file": "json/fr_candide.json"
+  },
+  {
+    "id": "fr_le-horla",
+    "language": "fr",
+    "title": "Le Horla",
+    "author": "Guy de Maupassant",
+    "genre": "fantastic tale",
+    "chapters": 1,
+    "chars": 52654,
+    "file": "json/fr_le-horla.json"
+  },
+  {
+    "id": "fr_un-coeur-simple",
+    "language": "fr",
+    "title": "Un cœur simple",
+    "author": "Gustave Flaubert",
+    "genre": "short story",
+    "chapters": 5,
+    "chars": 68228,
+    "file": "json/fr_un-coeur-simple.json"
+  },
+  {
+    "id": "it_il-principe",
+    "language": "it",
+    "title": "Il Principe",
+    "author": "Niccolò Machiavelli",
+    "genre": "political treatise",
+    "chapters": 27,
+    "chars": 185829,
+    "file": "json/it_il-principe.json"
+  },
+  {
+    "id": "it_pinocchio",
+    "language": "it",
+    "title": "Le avventure di Pinocchio",
+    "author": "Carlo Collodi",
+    "genre": "children's novel",
+    "chapters": 37,
+    "chars": 255141,
+    "file": "json/it_pinocchio.json"
+  },
+  {
+    "id": "it_vita-nuova",
+    "language": "it",
+    "title": "Vita Nuova",
+    "author": "Dante Alighieri",
+    "genre": "poetry and prose",
+    "chapters": 10,
+    "chars": 137119,
+    "file": "json/it_vita-nuova.json"
+  },
+  {
+    "id": "ja_ginga-tetsudo",
+    "language": "ja",
+    "title": "銀河鉄道の夜",
+    "author": "宮沢賢治",
+    "genre": "fantasy novella",
+    "chapters": 9,
+    "chars": 43769,
+    "file": "json/ja_ginga-tetsudo.json"
+  },
+  {
+    "id": "ja_kumo-no-ito",
+    "language": "ja",
+    "title": "蜘蛛の糸",
+    "author": "芥川龍之介",
+    "genre": "short story",
+    "chapters": 3,
+    "chars": 2900,
+    "file": "json/ja_kumo-no-ito.json"
+  },
+  {
+    "id": "ja_rashomon",
+    "language": "ja",
+    "title": "羅生門",
+    "author": "芥川龍之介",
+    "genre": "short story",
+    "chapters": 1,
+    "chars": 5784,
+    "file": "json/ja_rashomon.json"
+  },
+  {
+    "id": "ko_dongbaek-kkot",
+    "language": "ko",
+    "title": "동백꽃",
+    "author": "김유정",
+    "genre": "short story",
+    "chapters": 1,
+    "chars": 7336,
+    "file": "json/ko_dongbaek-kkot.json"
+  },
+  {
+    "id": "ko_jindallaekkot",
+    "language": "ko",
+    "title": "진달래꽃",
+    "author": "김소월",
+    "genre": "poetry",
+    "chapters": 37,
+    "chars": 19081,
+    "file": "json/ko_jindallaekkot.json"
+  },
+  {
+    "id": "ko_memil-kkot",
+    "language": "ko",
+    "title": "메밀꽃 필 무렵",
+    "author": "이효석",
+    "genre": "short story",
+    "chapters": 2,
+    "chars": 8695,
+    "file": "json/ko_memil-kkot.json"
+  },
+  {
+    "id": "pt_auto-da-barca",
+    "language": "pt",
+    "title": "Auto da Barca do Inferno",
+    "author": "Gil Vicente",
+    "genre": "morality play",
+    "chapters": 10,
+    "chars": 32125,
+    "file": "json/pt_auto-da-barca.json"
+  },
+  {
+    "id": "pt_mensagem",
+    "language": "pt",
+    "title": "Mensagem",
+    "author": "Fernando Pessoa",
+    "genre": "poetry",
+    "chapters": 45,
+    "chars": 29974,
+    "file": "json/pt_mensagem.json"
+  },
+  {
+    "id": "pt_o-alienista",
+    "language": "pt",
+    "title": "O Alienista",
+    "author": "Machado de Assis",
+    "genre": "satirical novella",
+    "chapters": 13,
+    "chars": 103384,
+    "file": "json/pt_o-alienista.json"
+  },
+  {
+    "id": "zh_dao-de-jing",
+    "language": "zh",
+    "title": "道德經",
+    "author": "老子",
+    "genre": "philosophy",
+    "chapters": 86,
+    "chars": 32025,
+    "file": "json/zh_dao-de-jing.json"
+  },
+  {
+    "id": "zh_kuangren-riji",
+    "language": "zh",
+    "title": "狂人日記",
+    "author": "魯迅",
+    "genre": "short story",
+    "chapters": 13,
+    "chars": 5620,
+    "file": "json/zh_kuangren-riji.json"
+  },
+  {
+    "id": "zh_sunzi",
+    "language": "zh",
+    "title": "孫子兵法",
+    "author": "孫武",
+    "genre": "military treatise",
+    "chapters": 14,
+    "chars": 10327,
+    "file": "json/zh_sunzi.json"
+  }
+]
